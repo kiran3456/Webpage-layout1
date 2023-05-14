@@ -7,16 +7,16 @@ function App() {
       <div className="box2">NAVIGATION MENU</div>
       <div className="box3">
         <div className="left">
-          CONTENT
+          {/* CONTENT */}
           <div className="top">Search </div>
           <div className="bottom">Social Media</div>
           <div className="middle">News Letter Signup</div>
         </div>
         <div className="center">MAIN CONTANT</div>
         <div className="right">
-          CONTANT
+          {/* CONTANT */}
           <div className="first">
-            Home
+            <div className="divide">Side nav</div>
             <div className="divide">Side nav</div>
           </div>
           <div className="second">Other Offers</div>
